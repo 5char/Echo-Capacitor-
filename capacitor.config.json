@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.echo",
+  "appName": "Echo",
+  "webDir": "www",
+  "backgroundColor": "#17181a",
+  "android": { "allowMixedContent": false }
+}
